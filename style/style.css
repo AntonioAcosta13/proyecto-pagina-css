@@ -1,0 +1,87 @@
+
+/* 
+    Created on : 19 jun 2023, 17:32:17
+    Author     : Antonio Cruz Acosta
+*/
+#todalahoja
+{
+    margin-left: 32px;
+    margin-right: 32px;
+    text-align: justify;
+}
+#divEncabezado
+{
+    color: red;
+    background-color: blanchedalmond;
+    margin-bottom: 0px;
+    margin-top: 8px;
+    padding: 15px;
+    text-align: center;
+}
+nav ul {
+    background-color: aquamarine;
+    text-align: center;
+}
+nav li {
+    display: inline-flex;
+}
+nav a {
+    color: white;
+    padding: 10px;
+}
+#divBiografia
+{
+    text-align: justify;
+    font-family: Arial;
+}
+#divborderimage { 
+  border: 10px solid transparent;
+  padding: 15px;
+  border-image: url(../media/img/border.png) 30 stretch;
+}
+#divBorderradius
+{
+    border: 2px solid red;
+    padding: 8px;
+    border-radius: 25px;
+}
+#divDegradado
+{
+    background: linear-gradient(to bottom, #ff0000 45%, #ffffff 90%);
+}
+#divImagenajust
+{
+    border: 10px dashed black;
+    padding: 30px;
+    background: url(../media/img/fondoajustado.png);
+    background-repeat: no-repeat;
+    background-origin: content-box,  padding-box;
+}
+#divTransparencia
+{
+     opacity: 0.5;
+}
+#divTextocursiva
+{
+    font-family: Cursive;
+}
+#divTextoHelvetica
+{
+    font-family: Helvetica;
+}
+#divTextoVerdana
+{
+    font-family: Verdana;
+}
+#divTextoFantasy
+{
+    font-family: fantasy ;
+}
+#divSombreado
+{
+    border: 1px solid;
+    padding: 10px;
+    box-shadow: 5px 10px #888888;
+}
+
+
